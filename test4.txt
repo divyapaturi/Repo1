@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4E65-2770
+
+ Directory of C:\Users\jahna\Desktop\myproject
+
+01/08/2023  10:28 PM    <DIR>          .
+01/08/2023  10:28 PM    <DIR>          ..
+12/27/2022  02:35 PM                22 index.html
+12/27/2022  02:33 PM                 8 test1.txt
+01/08/2023  02:52 AM               458 test2.text
+01/08/2023  10:28 PM                 0 test4.txt
+               4 File(s)            488 bytes
+               2 Dir(s)  26,032,861,184 bytes free
